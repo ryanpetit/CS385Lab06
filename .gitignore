@@ -1,0 +1,8 @@
+bin/
+pkg/
+*.swp
+src/*
+!src/minibank
+results*
+cookies.txt
+venv
